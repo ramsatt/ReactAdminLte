@@ -14,7 +14,7 @@
   },
   "main": "reactjsAdminlte.js",
   "dependencies": {
-    "jquery": "^3.1.1",
+    "jquery": "^3.5.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
